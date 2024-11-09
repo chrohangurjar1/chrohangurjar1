@@ -21,6 +21,17 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Expert** and **AI
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chrohangurjar1&icon=2&color=0)](https://visitcount.itsvg.in)
+---
+## 🌟 Contributors
+
+We want to give a huge shoutout to everyone who has contributed to the project! 🙌 Your hard work and dedication help make this app better every day. 💪
+
+<a href="https://github.com/chrohangurjar1/RustWeatherApp/graphs/contributors">
+  <img alt="RustWeatherApp contributors" height='48' src="https://contrib.rocks/image?repo=chrohangurjar1/RustWeatherApp&columns=24" />
+</a>
+
+🎉 Thank you all for your amazing contributions! Let's keep building together. 🚀
+---
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RohanNaagar) 
