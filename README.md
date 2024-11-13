@@ -19,9 +19,6 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Expert** and **AI
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=chrohangurjar1&icon=2&color=0)](https://visitcount.itsvg.in)
----
 ## 🌟 Contributors
 
 We want to give a huge shoutout to everyone who has contributed to the project! 🙌 Your hard work and dedication help make these repo's better every day. 💪
@@ -38,3 +35,6 @@ We want to give a huge shoutout to everyone who has contributed to the project! 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+[![](https://visitcount.itsvg.in/api?id=chrohangurjar1&icon=2&color=0)](https://visitcount.itsvg.in)
+---
