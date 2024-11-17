@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Rohan Naagar
+# 👋 Hi, I'm Rohan Naagar              
+ ![My Logo](logoyt.jpg)
+
+I'm Rohan Naagar, a cybersecurity engineer and tech enthusiast! 🚀
+
 
 Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and **AI Enthusiast**. I love working with cutting-edge technologies and constantly expanding my knowledge in areas like **Artificial General Intelligence (AGI)**, **Machine Learning**, and **Cybersecurity**. 
 
