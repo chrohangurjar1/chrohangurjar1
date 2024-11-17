@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Rohan Naagar              
- ![My Logo](logoyt.jpg)
-
+# 👋 Hi, I'm Rohan Naagar    
 I'm Rohan Naagar, a cybersecurity engineer and tech enthusiast! 🚀
 
 
