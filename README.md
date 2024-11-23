@@ -53,11 +53,12 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 We want to give a huge shoutout to everyone who has contributed to the project! 🙌 Your hard work and dedication help make these repo's better every day. 💪
 
-<a href="https://github.com/chrohangurjar/WeatherApp/graphs/contributors">
-  <img alt="WeatherApp contributors" height='48' src="https://contrib.rocks/image?repo=chrohangurjar/RustWeatherApp&columns=24" />
+<a href="https://github.com/chrohangurjar/Rust-Weather--App/graphs/contributors">
+  <img alt="Rust-Weather-App contributors" height='48' src="https://contrib.rocks/image?repo=chrohangurjar/Rust-Weather-App&columns=24" />
 </a>
 
 🎉 Thank you all for your amazing contributions! Let's keep building together. 🚀
+
 ---
 
   ## 💰 You can help me by Donating
