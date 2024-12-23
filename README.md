@@ -1,7 +1,3 @@
-<div style="text-align: center;">
-  <img src="https://th.bing.com/th/id/OIP.rzt05LNgd6Z2m8Iyiy-KiQHaEK?rs=1&pid=ImgDetMain" alt="Image Description" style="width: 500px; height: 300px;">
-</div>
-
 
 # 👋 Hi, I'm Rohan Naagar    
 I'm Rohan Naagar, a cybersecurity engineer and tech enthusiast! 🚀
