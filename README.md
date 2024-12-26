@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 # 💫 About Me:
 💬 Myself Rohan Naagar<br>
-⚡Founder- RxpexInfinity<br>
+⚡Founder- InnovateX <br>
 🤝 I’m looking for help with Algorithms.<br>
 👀  I’m currently learning Artificial intelligence(AI),Artificial General Intelligence (AGI), Machine Learning, Deep Learning, Natural Language Processing and Large Language Models.<br>
 🌱 Research Interests: Deep Learning, OpenCV, LLMs.<br>
